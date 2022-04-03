@@ -269,3 +269,7 @@ footer{
 .zs{
     width: 100%;
 }
+
+.form-control-sm{
+    margin-bottom: 10px;
+}
